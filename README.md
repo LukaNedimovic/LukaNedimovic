@@ -1,4 +1,14 @@
-<h1> 👋 Welcome to my GitHub! </h1>
+<h1> Welcome! </h1>
+
+I am Luka, a 3rd year cs undergrad in Serbia. 
+
+Generally speaking, I am curious exploring **geometry in intelligence (read: Geometric Deep Learning -- GNNs)**. These days, **SSL** and **World Models** have also taken my attention quite a bit. Integrating the two could be very interesting.
+
+I also work on some research projects on the side. If you are generally interested in the aforementioned stuff, hit me up -- looking for collab!
+
+I currently work as **Research Software Engineer @ NextSilicon**. 
+
+<!-- <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
 
 <h3> 🚀 Yet another ML framework </h3> 
