@@ -6,7 +6,7 @@ Generally speaking, I am curious exploring **geometry in intelligence (read: Geo
 
 I also work on some research projects on the side. If you are generally interested in the aforementioned stuff, hit me up -- looking for collab!
 
-I am an upcoming Rice Research Fellow during Summer '26, working under Prof. Rahman Doost-Mohammady!
+I am currently working as Visiting International Undergraduate Researcher, under supervision of Prof. Dr. Rahman Doost-Mohammady!
 
 <!-- <h1> 👋 Welcome to my GitHub! </h1>
 <h2> Trending Projects </h2>
